@@ -1,9 +1,5 @@
     
-    ![PanAcademy](https://github.com/tiagodalmeida87/BancoPan_Tiago/blob/main/src/image/parte_pan_academy.jpg)
-
-    ###### [Banco Pan – Gama Academy](https://bancopan.corporate.gama.academy/)
-
-    PAN ACADEMY É UM PROGRAMA DE FORMAÇÃO EM JAVA E CLOUD.
+    [PAN ACADEMY](https://bancopan.corporate.gama.academy/) É UM PROGRAMA DE FORMAÇÃO EM JAVA E CLOUD.
 
 ### Apresentação:
     Sou Tiago de Lima Almeida, aluno da turma 1 do PAN ACADEMY !!!
@@ -14,7 +10,7 @@
     programação e metodologias ágeis, até assuntos mais
     complexos que irão elevar o seu nível de conhecimento.
 
-    **#OPanEhTech**
+    #OPanEhTech
 
 ### Tecnologias 🖥️
     - Java ☕
