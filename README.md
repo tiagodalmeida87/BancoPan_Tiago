@@ -1,5 +1,7 @@
-    
-[Pan Academy](https://bancopan.corporate.gama.academy/) É UM PROGRAMA DE FORMAÇÃO EM JAVA E CLOUD.
+
+![PanAcademy](https://github.com/tiagodalmeida87/BancoPan_Tiago/blob/main/src/image/parte_pan_academy.jpg)
+
+[PAN ACADEMY](https://bancopan.corporate.gama.academy/) É UM PROGRAMA DE FORMAÇÃO EM JAVA E CLOUD.
 
 ### Apresentação:
     Sou Tiago de Lima Almeida, aluno da turma 1 do PAN ACADEMY !!!
