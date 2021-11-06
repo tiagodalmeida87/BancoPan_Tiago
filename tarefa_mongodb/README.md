@@ -107,3 +107,5 @@ db.getCollection('filme').find().skip(2)
 ![image](https://user-images.githubusercontent.com/92064386/138007193-47cac947-928e-4909-a299-0ae99b35eed9.png)
 
 # 
+
+Feito por [Tiago Almeida](https://github.com/tiagodalmeida87) 🧑‍💻
