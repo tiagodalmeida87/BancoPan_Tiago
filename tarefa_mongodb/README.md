@@ -1,5 +1,6 @@
 # PAN Academy - Atividade MongoDB
 
+![](https://github.com/tiagodalmeida87/BancoPan_Tiago/blob/main/tarefa_mongodb/src/img/mongodb.jpg)
 
 
 **MongoDB** é um banco de dados não relacional (noSQL) orientado a documentos no formato JSON. Ele é opensource e possui alta performance e flexibilidade.
@@ -10,7 +11,7 @@ Nessa atividade vamos criar um banco de dados novo (database) e uma coleção co
 - Exclusão de documentos
 - Consulta com projeção
 - Consulta utilizando combinação entre os seletores
-- Consulta paginada e ordenada (utilizar ignorar , limitar e classificar )
+- Consulta paginada e ordenada (utilizar ignorar, limitar e classificar )
 
 ### Resolução da atividade
 
@@ -24,6 +25,13 @@ $ db.createCollection('filme')
 
  - Inserção de Documentos:
 Com o Robot 3T foi criado uma nova conexão com base de dados "cinemapan", com o botão direito na Collection -> filme, abri a opção de Insert Document, para inserir os dados via JSON;
+
+
+![](https://github.com/tiagodalmeida87/BancoPan_Tiago/blob/main/tarefa_mongodb/src/img/Inserir_dados.jpg)
+
+
+ - Atualização de documentos:
+Para atualização do documento foi utilizado o Robot 3T, com o botão direito na Collection -> filme, abri a opção de Update Document, para inserir os dados via JSON, através do comando:
 
 ```
 db.getCollection('filme').update(
@@ -46,6 +54,10 @@ db.getCollection('filme').update(
 );
 ```
 
+
+![](https://github.com/tiagodalmeida87/BancoPan_Tiago/blob/main/tarefa_mongodb/src/img/atualiza%C3%A7%C3%A3o.jpg)
+
+
  - Exclusão de Documentos:
 Para excluir o documento foi utilizado o comando:
 ```
@@ -65,7 +77,11 @@ Retornando o local do cinema e a cidade
 db.getCollection('filme').find({$or:[{"local": /.*Adra.*/},{"cidade":/.*de.*/}]})
 ```
 
-- Consulta paginada e ordenada (utilizar ignorar , limitar e classificar)
+
+![](https://github.com/tiagodalmeida87/BancoPan_Tiago/blob/main/tarefa_mongodb/src/img/combinacao_seletores.jpg)
+
+
+- Consulta paginada e ordenada (utilizar ignorar, limitar e classificar)
 
 Limitando a 1 registros:
 ```
