@@ -25,14 +25,14 @@ use cinemapan
 db.createCollection('filme')
 ```
 
- - Inserção de Documentos:&nbsp;
+ - Inserção de Documentos:
 Com o Robot 3T foi criado uma nova conexão com base de dados "cinemapan", com o botão direito na Collection -> filme, abri a opção de Insert Document, para inserir os dados via JSON;
 
 
 ![](https://github.com/tiagodalmeida87/BancoPan_Tiago/blob/main/tarefa_mongodb/src/img/Inserir_dados.jpg)
 
 
- - Atualização de documentos:&nbsp;
+ - Atualização de documentos:
 Para atualização do documento foi utilizado o Robot 3T, com o botão direito na Collection -> filme, abri a opção de Update Document, para inserir os dados via JSON, através do comando:
 
 ```
@@ -60,20 +60,19 @@ db.getCollection('filme').update(
 ![](https://github.com/tiagodalmeida87/BancoPan_Tiago/blob/main/tarefa_mongodb/src/img/atualiza%C3%A7%C3%A3o.jpg)
 
 
- - Exclusão de Documentos:&nbsp;
+ - Exclusão de Documentos:
 Para excluir o documento foi utilizado o comando:
 ```
 db.getCollection('filme').remove({"filme.nome" : "Luca"})
 ```
 
- - Consulta com projeção:&nbsp;
+ - Consulta com projeção:
 Para consulta com projeção foi utilizado o comando:
 ```
 db.getCollection('filme').find({},{"filme:lancamento":"2021"})
 ```
 
  - Consulta utilizando combinação entre os seletores:
-&nbsp;
 Para consulta com combinação de seletores foi utilizado o comando:
 Retornando o local do cinema e a cidade 
 ```
@@ -95,7 +94,7 @@ Pulando dois registros:
 ```
 db.getCollection('filme').find().skip(2)
 ```
-&nbsp;
+
 ---
 &nbsp;
 
