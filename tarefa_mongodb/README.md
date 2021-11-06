@@ -19,8 +19,8 @@ Com o MongoDB previamente instalado no ambiente Windows e na pasta c:\data\db
  
   - Criar um banco de dados no MongoDB, usamos o seguinte comando: 
 ```
-$ use cinemapan
-$ db.createCollection('filme')
+use cinemapan
+db.createCollection('filme')
 ```
 
  - Inserção de Documentos:
