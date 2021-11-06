@@ -1,0 +1,1 @@
+db.getCollection('filme').remove({"filme.nome" : "Luca"})
