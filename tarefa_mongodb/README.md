@@ -97,7 +97,6 @@ db.getCollection('filme').find().skip(2)
 
 ---
 &nbsp;
-
 > Status da Atividade: Concluido :heavy_check_mark:
 
 
