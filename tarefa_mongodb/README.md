@@ -14,7 +14,7 @@ Nessa atividade vamos criar um banco de dados novo (database) e uma coleção co
 - Consulta paginada e ordenada (utilizar ignorar, limitar e classificar )
 &nbsp;
 ---
-&nbsp;
+
 ## Resolução da atividade
 
 Com o MongoDB previamente instalado no ambiente Windows e na pasta c:\data\db 
@@ -72,7 +72,8 @@ Para consulta com projeção foi utilizado o comando:
 db.getCollection('filme').find({},{"filme:lancamento":"2021"})
 ```
 
- - Consulta utilizando combinação entre os seletores:&nbsp;
+ - Consulta utilizando combinação entre os seletores:
+&nbsp;
 Para consulta com combinação de seletores foi utilizado o comando:
 Retornando o local do cinema e a cidade 
 ```
