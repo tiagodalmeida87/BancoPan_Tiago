@@ -1,1 +1,1 @@
-db.getCollection('filme').remove({"filme.nome" : "Luca"})
+db.getCollection('filme').find({})
