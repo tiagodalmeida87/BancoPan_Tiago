@@ -28,6 +28,50 @@ db.createCollection('filme')
  - Inserção de Documentos:
 Com o Robot 3T foi criado uma nova conexão com base de dados "cinemapan", com o botão direito na Collection -> filme, abri a opção de Insert Document, para inserir os dados via JSON;
 
+```
+[
+    {
+        "_id" : ObjectId("61858e8756332edb8efcd4f0"),
+        "filme" : {
+            "nome" : "A Familia Addams 2 – Pé na estrada",
+            "genero" : "Animação",
+            "lancamento" : 2021
+        },
+        "elenco" : {
+            "nome" : "Chloe Grace, Charlize Theron"
+        },
+        "local" : "Cine Adradina",
+        "cidade" : "São Paulo"
+    },
+    {
+        "_id" : ObjectId("61858f1556332edb8efcd50c"),
+        "filme" : {
+            "nome" : "Homem de Ferro",
+            "genero" : "Ação",
+            "lancamento" : 2008
+        },
+        "elenco" : {
+            "nome" : "Robert Downey Jr"
+        },
+        "local" : "Cine Vitória",
+        "cidade" : "Vitória de Santo Antão"
+    },
+    {
+        "_id" : ObjectId("618590a656332edb8efcd53b"),
+        "filme" : {
+            "nome" : "Os Vingadores",
+            "genero" : "Ação",
+            "lancamento" : 2012
+        },
+        "elenco" : {
+            "nome" : "Robert Downey Jr, Cris Evans, Scarlett Johansson"
+        },
+        "local" : "Cine Tucurui",
+        "cidade" : "Pará"
+    }
+]
+```
+
 
 ![](https://github.com/tiagodalmeida87/BancoPan_Tiago/blob/main/tarefa_mongodb/src/img/Inserir_dados.jpg)
 
