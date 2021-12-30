@@ -24,6 +24,7 @@
     Principais atividades:
 
    - [Atividades de condicionais](https://github.com/tiagodalmeida87/BancoPan_Tiago/tree/main/Condicionais/src)
+   - [Desafio 1 do Programador](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy)
    - [Atividades de Spring Boot](https://github.com/tiagodalmeida87/Banco_Pan_Repository/tree/main/pananatomy)
    - [Atividades de mongoDB](https://github.com/tiagodalmeida87/Banco_Pan_Repository/tree/main/tarefa_mongodb)
    - [Atividades de MySQL](https://github.com/tiagodalmeida87/Banco_Pan_Repository/tree/main/MySQL%20Workbench)
