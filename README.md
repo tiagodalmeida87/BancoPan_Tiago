@@ -24,18 +24,18 @@
     Principais atividades:
 
    - [Atividades de condicionais](https://github.com/tiagodalmeida87/BancoPan_Tiago/tree/main/Condicionais/src)
-   - [Atividades de Spring Boot](https://github.com/tiagodalmeida87/BancoPan_Tiago/tree/main/Condicionais/src)
+   - [Atividades de Spring Boot](https://github.com/tiagodalmeida87/Banco_Pan_Repository/tree/main/pananatomy)
    - [Atividades de mongoDB](https://github.com/tiagodalmeida87/Banco_Pan_Repository/tree/main/tarefa_mongodb)
-   - [Atividades de MySQL](https://github.com/tiagodalmeida87/Banco_Pan_Repository/tree/main/tarefa_mongodb)
+   - [Atividades de MySQL](https://github.com/tiagodalmeida87/Banco_Pan_Repository/tree/main/MySQL%20Workbench)
 
 ### Agradecimentos 👏    
 
 ###### [Banco PAN](https://www.bancopan.com.br/)
-![](https://github.com/CarmoPJunior/BlueBank/blob/main/src_readme/img/logo_bancoPan.png)
+![](https://user-images.githubusercontent.com/92064386/138007193-47cac947-928e-4909-a299-0ae99b35eed9.png)
 
 
 ###### [Gama Academy](https://www.gama.academy/)
-![](https://github.com/CarmoPJunior/BlueBank/blob/main/src_readme/img/logo_gamaAcademy.png)
+![](https://user-images.githubusercontent.com/92064386/138007156-3ae6e393-a770-4bf7-85cb-9f9d390fb118.png)
 
 
 Feito por [Tiago Almeida](https://github.com/tiagodalmeida87) 🧑‍💻

@@ -17,7 +17,11 @@ Ajude o consultório Gama Pan Anatomy a salvar e listar sua equipe médica e al�
 http://localhost:8080/medicos
 ```
 ###### Médicos – PanAnatomy
-![Médicos]()
+![Médicos](https://github.com/tiagodalmeida87/Banco_Pan_Repository/blob/main/pananatomy/src/img/Medico_Postman.jpg)
+
+---
+![Médicos](https://github.com/tiagodalmeida87/Banco_Pan_Repository/blob/main/pananatomy/src/img/Medico_mongoDB.jpg)
+
 
 
 ##### Método GET - Lista toda a agenda.
@@ -25,8 +29,10 @@ http://localhost:8080/medicos
 http://localhost:8080/agenda
 ```
 ###### Agenda – PanAnatomy
-![Agenda]()
- 
+![Agenda](https://github.com/tiagodalmeida87/Banco_Pan_Repository/blob/main/pananatomy/src/img/Agenda_Postman.jpg)
+
+---
+![Agenda](https://github.com/tiagodalmeida87/Banco_Pan_Repository/blob/main/pananatomy/src/img/Agenda_mongoDB.jpg) 
 
 ---
 
